@@ -74,9 +74,9 @@ main{
     color: white;  
 }
 
-/************************** 
+/***************************** 
    2nd sction:Player list  
-***************************/
+******************************/
 .player-box{
     margin: 80px 180px 80px 150px;
 }
@@ -111,7 +111,7 @@ main{
     
 }
 /************************** 
-   Footer Style     
+      Footer Style     
 ***************************/
 
 footer{
@@ -137,9 +137,9 @@ footer{
      padding-right: 6px;
  }
 
-  /****************
-     media query 
-  *****************/
+  /*******************
+       media query 
+  ********************/
 
 
  @media only screen and (max-width:688px) {
